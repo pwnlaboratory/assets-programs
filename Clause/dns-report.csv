@@ -1,0 +1,10 @@
+new,host,a,soa,status_code,cdn,cdn-name,aaaa,cname,caa
+,admin.clausestaging.com,"34.216.235.45, 52.35.112.94","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,
+,blog.clausestaging.com,"18.165.98.107, 18.165.98.10, 18.165.98.99, 18.165.98.112","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,True,cloudfront,,,
+,callback.clausestaging.com,"54.148.42.54, 44.226.221.14","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,
+,callbacks.clausestaging.com,"18.66.97.115, 18.66.97.47, 18.66.97.67, 18.66.97.42","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,True,cloudfront,,,
+,get.clausestaging.com,205.201.132.26,"internal.akadns.net, hostmaster.akamai.com",NOERROR,,,,"us18-ae851adb-8cf0074fca045ba81651ad9ea.pages.mailchi.mp, terminator.capstone.com.akadns.net",
+,hub.clausestaging.com,,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,True,cloudfront,,,
+,login.clausestaging.com,"104.18.103.2, 104.18.102.2","kolton.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare,"2606:4700::6812:6702, 2606:4700::6812:6602",staging-clause-cd-tekqmlymzm05bg5h.edge.tenants.auth0.com,"digicert.com, letsencrypt.org"
+,svc-helper-api.clausestaging.com,"54.191.185.231, 52.37.110.16","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,
+,tasks.clausestaging.com,"100.21.115.255, 34.217.154.169","ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,

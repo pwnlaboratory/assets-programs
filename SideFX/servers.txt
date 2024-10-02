@@ -1,0 +1,12 @@
+http://gmail.sidefx.com:80
+http://calendar.sidefx.com:80
+http://phish.sidefx.com:80
+https://aws.sidefx.com:443
+https://mailproxy.sidefx.com:443
+https://static.sidefx.com:443
+https://ww1.sidefx.com:443
+https://email.mg.sidefx.com:443
+https://newvpn.sidefx.com:443
+https://www.sidefx.com:443
+https://sidefx.com:443
+https://download.sidefx.com:443
