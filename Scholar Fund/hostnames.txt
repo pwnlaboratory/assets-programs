@@ -1,0 +1,21 @@
+Binary file in/python-script-3/output.txt matches
+adventure-valued.scholarfund.io
+app.scholarfund.io
+ceo.scholarfundwa.org
+docs.scholarfundwa.org
+forms.scholarfundwa.org
+giving.scholarfundwa.org
+lx.scholarfund.io
+lx.scholarfundwa.org
+pgadmin.scholarfund.io
+portals.scholarfund.io
+portals.scholarfundwa.org
+scholarfund.io
+scholarfundwa.org
+spark.scholarfundwa.org
+tideswell-dev.scholarfund.io
+tideswell.scholarfund.io
+unify.scholarfundwa.org
+www.ceo.scholarfundwa.org
+www.scholarfund.io
+www.scholarfundwa.org

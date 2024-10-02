@@ -1,0 +1,12 @@
+Binary file in/python-script-3/output.txt matches
+admin.dragonapp.io
+blog.getdragon.ch
+chat.dragonapp.io
+dragonapp.io
+getdragon.ch
+graylog.dragonapp.io
+messenger.dragonapp.io
+messenger2.dragonapp.io
+webrtc.dragonapp.io
+webrtc2.dragonapp.io
+www.dragonapp.io

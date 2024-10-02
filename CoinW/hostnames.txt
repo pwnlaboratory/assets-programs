@@ -1,0 +1,17 @@
+api.coinw.com
+blog.coinw.com
+change.coinw.com
+coinw.com
+email.coinw.com
+futuresapi.coinw.com
+oberlandesgericht-celle.coinw.com
+ptr1.service.coinw.com
+ptr3.service.coinw.com
+resource.coinw.com
+service.coinw.com
+skygarden.search.coinw.com
+swap.coinw.com
+track.coinw.com
+track.service.coinw.com
+ws.coinw.com
+www.coinw.com

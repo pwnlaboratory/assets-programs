@@ -1,0 +1,2 @@
+new,host,ttl,soa,status_code
+,gomed.events.caffeine.tv,3600,"{'name': 'gomed.events.caffeine.tv', 'ns': 'fake-for-negative-caching.adguard.com', 'mailbox': 'hostmaster.gomed.events.caffeine.tv', 'serial': 100500, 'refresh': 1800, 'retry': 900, 'expire': 604800, 'minttl': 86400}",NOERROR

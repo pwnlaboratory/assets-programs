@@ -1,0 +1,22 @@
+Binary file in/python-script-3/output.txt matches
+api.replyify.com
+app.replyify.com
+aws-api.replyify.com
+aws.replyify.com
+blog.replyify.com
+blog2.replyify.com
+email.replyify.com
+get.replyify.com
+help.replyify.com
+links.replyify.com
+multidb-api.replyify.com
+multidb.replyify.com
+newblog.replyify.com
+replyify.com
+smtp.replyify.com
+ssl-link.replyify.com
+staging-api.replyify.com
+staging.replyify.com
+staging.track.replyify.com
+track.replyify.com
+www.replyify.com
